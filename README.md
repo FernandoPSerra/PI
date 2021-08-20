@@ -1,4 +1,4 @@
-# PI
+# Projeto Integrador - Agudos
 
 Bem-vindo!
 
